@@ -21,5 +21,5 @@ Please view [Server Documentation](./server/README.md)
 ## Client
 React / Redux frontend
 
-### Server Setup
+### Client Setup
 Please view [Client Documentation](./client/README.md)
