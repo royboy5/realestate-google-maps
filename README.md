@@ -8,29 +8,18 @@ $ git clone https://github.com/royboy5/https://github.com/royboy5/realestate-goo
 $ cd realestate-google-maps
 ```
 
+You will need to start the Server 1st to prevent port conflicts.
+
 ## Server
 
 Node.js backend utilizing json-server as a REST API.
 
 ### Server Setup
-```
-$ cd realestate-google-maps/server
-$ npm i
-$ npm start
-```
+Please view [Server Documentation](./server/README.md)
+
 
 ## Client
-
 React / Redux frontend
 
-### Client Setup
-```
-$ cd realestate-google-maps/client
-$ npm i
-$ npm start
-
-Note: Enter 'Y' when asked to use another port because port 3000 is taken by the sever
-```
-
-
-
+### Server Setup
+Please view [Client Documentation](./client/README.md)
